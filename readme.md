@@ -7,7 +7,7 @@ The client, "Horiseon", required the site's code to be refactored to be cleaner 
 - Consolidating CSS selectors and properties
 - Organizing them to follow the semantic structure of the HTML elements
 - Including comments before each element or section of the page
-- Adding Alt atttributes to images
+- Adding Alt atttributes to images and icons
 
 ## Installation
 

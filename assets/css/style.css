@@ -36,7 +36,7 @@ h1 {
 
 /* Condsolidated Nav bar rules */
 
-.header nav ul li {
+.header nav li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-/* Consolidated card text rules */
+/* Consolidated card text rules and put them under one class (card) */
 .card {
     margin-bottom: 20px;
     padding: 50px;
@@ -106,7 +106,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* Consolidated sidebar rules */
+/* Consolidated sidebar rules and put them under one class (aside) */
 .aside-text {
     margin-bottom: 32px;
     color: #ffffff;
