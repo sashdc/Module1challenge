@@ -2,12 +2,15 @@
 
 ## Overview
 
-The client, "Horiseon", required the site's code to be refactored to be cleaner and better suited for search engine optimization. This included:
+The client, "Horiseon", required the site's code to be refactored to be cleaner, more streamlined, and more accessible. This includes
 - Adding semantic elements to the HTML
 - Consolidating CSS selectors and properties
 - Organizing them to follow the semantic structure of the HTML elements
 - Including comments before each element or section of the page
 - Adding Alt atttributes to images and icons
+- Making sure all links within the page work
+
+These changes should help make the page more favourable for Search Engine Optimization, run smoother, and be more accessible to those with barriers.
 
 ## Installation
 
